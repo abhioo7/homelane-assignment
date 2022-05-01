@@ -1,0 +1,19 @@
+{
+  "name": "dataservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "cors": "^2.8.5",
+    "jest": "^28.0.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}

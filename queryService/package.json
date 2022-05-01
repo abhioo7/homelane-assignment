@@ -1,0 +1,22 @@
+{
+  "name": "queryservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^8.11.0",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "heroku": "^7.60.2",
+    "jest": "^28.0.3",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
